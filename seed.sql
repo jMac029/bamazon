@@ -15,3 +15,5 @@ VALUES
 ("R2-D2 Remote Control Doll", "Electronics", 44.99, 33),
 ("Purple Lightsaber", "Toys", 19.99, 55),
 ("Rey Doll", "Collectibles", 21.99, 165);
+
+SELECT * FROM products;
