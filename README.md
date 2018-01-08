@@ -7,7 +7,7 @@
 ## DEMO
 To see a demo of this CLI node app in action check out the video:
 
-https://github.com/jMac029/bamazon/blob/master/bamazon_demo.mp4
+[![bamazon Demo Video](https://img.youtu.be/vi/lxq_CErNM38/0.jpg)](https://youtu.be/lxq_CErNM38 "Bamazon Demo Video")
 
 ## Overview
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory.
