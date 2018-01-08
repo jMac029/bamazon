@@ -2,7 +2,7 @@ USE bamazon;
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES 
-("Luke Skywalk BobbleHead Doll", "Collectibles", 19.99, 99),
+("Luke Skywalker BobbleHead Doll", "Collectibles", 19.99, 99),
 ("Princess Leia BobbleHead Doll", "Collectibles", 19.99, 144),
 ("Chewbacca BobbleHead Doll", "Collectibles", 19.99, 101),
 ("Darth Vader BobbleHead Doll", "Collectibles", 19.99, 66),

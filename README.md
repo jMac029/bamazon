@@ -1,6 +1,14 @@
 ## bamazon
 10th Homework Assignment for UCI Coding Bootcamp - Build a command line app the mimics an online store using nodejs and mysql
 
+
+
+
+## DEMO
+To see a demo of this CLI node app in action check out the video:
+
+https://github.com/jMac029/bamazon/blob/master/bamazon_demo.mov
+
 ## Overview
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory.
 
